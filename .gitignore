@@ -41,3 +41,4 @@ hs_err_pid*
 /user-service/.mvn/
 /user-service/user-service.iml
 /user-service/.gitignore
+/common/common.iml
