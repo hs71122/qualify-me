@@ -42,3 +42,4 @@ hs_err_pid*
 /user-service/user-service.iml
 /user-service/.gitignore
 /common/common.iml
+/discover-service/discover-service.iml
